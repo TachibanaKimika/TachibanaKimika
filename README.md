@@ -1,6 +1,6 @@
 二刺螈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TachibanaKimika)](https://github.com/TachibanaKimika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TachibanaKimika)]
 
 <!---
 TachibanaKimika/TachibanaKimika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
