@@ -4,7 +4,7 @@ Hi, I'm TachibanKimika! A front-end developer specializing in TypeScript and Rea
 
 ## About
 - **Hobbies:** **エロゲー**, **エロゲー**, **エロゲー**
-- **Languages:** TypeScript, Java, Python
+- **Languages:** TypeScript, ~~Ren’Py~~
 
 ## Stats
 <!--START_SECTION:waka-->
