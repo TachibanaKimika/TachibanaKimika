@@ -10,11 +10,11 @@ Hi, I'm TachibanKimika! A front-end developer specializing in TypeScript and Rea
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 9 mins     ██████████████░░░░░░░░░░░   55.99 %
-TypeScript   35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-Ren'Py       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Markdown     3 hrs 4 mins    ███████████████████▒░░░░░   77.19 %
+TypeScript   35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Ren'Py       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
